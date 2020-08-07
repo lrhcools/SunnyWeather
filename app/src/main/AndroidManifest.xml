@@ -3,7 +3,7 @@
     package="com.lrh.sunnyweather">
 
     <uses-permission android:name="android.permission.INTERNET"/>
-    
+
     <application
         android:name=".SunnyWeatherApplication"
         android:allowBackup="true"
