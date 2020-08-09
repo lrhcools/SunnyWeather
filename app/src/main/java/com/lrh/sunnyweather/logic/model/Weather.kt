@@ -1,4 +1,4 @@
 package com.lrh.sunnyweather.logic.model
 
-class Weather {
+data class Weather(val realTime: RealtimeResponse.RealTime,val daily: DailyResponse.Daily) {
 }
